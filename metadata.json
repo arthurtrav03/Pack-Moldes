@@ -1,0 +1,6 @@
+{
+  "name": "Acervo Profissional de Moldes - Papelaria Personalizada",
+  "description": "Milhares de moldes, topos de bolo e caixas para papelaria personalizada. Práticos, organizados e prontos para corte na tesoura ou máquina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
